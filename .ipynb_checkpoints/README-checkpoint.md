@@ -47,7 +47,6 @@ Este projeto participa da competição do Kaggle **"Fake or Real: The Impostor H
   - `Precision`
   - `Recall`
   - `F1-score`
-- Também foi calculada a **Pairwise Accuracy**: acerto dentro de cada par de arquivos.
 
 ---
 
